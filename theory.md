@@ -218,6 +218,11 @@ This adjusted timeline confirms many dates via primary sources.
 | 38 AD | Jesus dies? | Theory proposal; aligns with "not yet fifty." |
 
 ## Further Reading & Contact
+## Author & Contact
+**Julian Doyle** – 
+- **Website**: [www.juliandoyle.info](https://www.juliandoyle.info)  
+- **Full Theory PDF**: [Zenodo Link](https://zenodo.org/records/17249879)  
+- Open to discussions on the Jesus unraveling theory!
 - Original PDF: [Link to Zenodo](https://zenodo.org/records/17249879)  
-- For proofs/discussion: Contact Julian Doyle via [email or site if available].  
+- For proofs/discussion: Contact Julian Doyle via [chippenhamfilms@icloud.com].  
 - AI Analysis: Query this repo on Grok or similar for reviews.
